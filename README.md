@@ -1,1 +1,1 @@
-# Programoz-s-1-scratch-
+Teherautó megy a hegyen, de egy béka az útjában áll.
